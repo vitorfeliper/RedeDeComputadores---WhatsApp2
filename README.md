@@ -6,7 +6,7 @@ LINGUAGEM: Python
 Aplicação: Camada de transporte
 troca de mensagens entre máquinas usando sockets
 
-----------------INSTRUÇÕES---------------------
+----------------INSTRUÇÕES---------------------<br>
 1 - Baixe e instale o python 3.10 ou superior
 2 - Em CLI execute o arquivo server.py
     comando: python server.py
